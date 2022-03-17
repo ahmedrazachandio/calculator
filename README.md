@@ -5,7 +5,7 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/web_1.png" width="900">
+<img src="website_images/Screenshot_1.png" width="900">
 
 
 
