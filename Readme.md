@@ -5,12 +5,8 @@
 
 ### Website Preview
 #### Home Page
-<<<<<<< HEAD
 <img src="website_images/Screen_1.png" width="900">
 =======
-<img src="website_images/Screenshot_1.png" width="900">
->>>>>>> d2ee0643a821c00f0bda06bbec9006d95951f2bc
-
 
 
 :star: Star me on GitHub — it helps!
